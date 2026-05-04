@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 [![](https://komarev.com/ghpvc/?username=khushhub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->ng ...
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Hi there 👋  
 I’m Khushi — a final-year CS student passionate about Data, AI, and building real-world ML solutions 🚀
@@ -36,7 +36,7 @@ I’m Khushi — a final-year CS student passionate about Data, AI, and building
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/khushkushwaha45/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushkushwaha45/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushhub)
 
 
