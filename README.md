@@ -32,7 +32,6 @@ I’m Khushi — a final-year CS student passionate about Data, AI, and building
 - 📫 Reach me at: khushkushwaha45@gmail.com | LinkedIn | GitHub
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’ve built ML systems with up to 91% accuracy and love solving real-world problems with data 📊
--->
 
 ## 🌐 Socials:
 
