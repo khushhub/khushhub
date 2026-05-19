@@ -26,9 +26,17 @@ Open to remote ML/AI roles and freelance projects. If you have a problem that da
 
 ## Projects
 
-### 🔬 NutriLens
-Food image recognition using EfficientNet + transfer learning. Identifies dishes and estimates nutritional content from a photo.
-`EfficientNet` `TensorFlow` `OpenCV` `Streamlit`
+## NutriLens 🔬
+![demo](assets/demo.gif)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nutrilens-pa.streamlit.app/)
+
+| Metric | Value |
+|--------|-------|
+| Model | EfficientNetB0 + Transfer Learning |
+| Accuracy | 91% |
+| Dataset | Food-101 |
+| Inference time | ~0.3s |
 
 ### 📰 Fake News Detection
 NLP classifier that detects misinformation using TF-IDF features and Naive Bayes, trained on real news datasets with a full preprocessing pipeline.
