@@ -72,3 +72,11 @@ Deepening PyTorch skills and exploring scalable ML deployment — moving from no
 Available for remote roles, contract ML work, and interesting problems.
 
 📧 khushkushwaha45@gmail.com · [LinkedIn](#) · [Instagram](#)
+
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khushhub/khushhub/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khIushhub/khushhub/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/khushhub/khushhub/output/github-snake.svg" />
+</picture>
