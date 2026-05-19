@@ -71,7 +71,7 @@ Deepening PyTorch skills and exploring scalable ML deployment — moving from no
 ## Let's connect
 Available for remote roles, contract ML work, and interesting problems.
 
-📧 khushkushwaha45@gmail.com · [LinkedIn](https://www.linkedin.com/in/khushkushwaha45/) . [Instagram](https://www.instagram.com/khushi.thekidd_/)
+  khushkushwaha45@gmail.com · [LinkedIn](https://www.linkedin.com/in/khushkushwaha45/) . [Instagram](https://www.instagram.com/khushi.thekidd_/)
 
 ## Contribution snake
 
