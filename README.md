@@ -1,26 +1,55 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9E75&width=600&lines=Hi%2C+I'm+Khushi+%F0%9F%91%8B;ML+Engineer+%7C+Computer+Vision+%26+NLP;Building+real-world+AI+solutions)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9E75&width=600&lines=Hi%2C+I'm+Khushi+%F0%9F%91%8B;ML+Engineer+%7C+Computer+Vision+%26+NLP;Open+to+remote+roles+%26+freelance)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=khushhub&color=1D9E75&style=flat-square&label=Profile+Views)
+
 **ML engineer · Computer Vision & NLP · She/Her · Final-year CS student**
 
 I build end-to-end machine learning systems — from raw data to deployed models. My focus is on **computer vision** and **NLP**, and I care about making models that actually work on real problems, not just benchmark datasets.
 
 Open to remote ML/AI roles and freelance projects. If you have a problem that data can solve, let's talk.
 
+## GitHub stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=khushhub&show_icons=true&hide_border=true&count_private=true&theme=default" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushhub&layout=compact&hide_border=true&theme=default" />
+    </td>
+  </tr>
+</table>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=khushhub&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ---
 
 ## What I work with
 
-**Deep Learning & CV** — TensorFlow · Keras · PyTorch (learning) · EfficientNet · OpenCV · CNN · Transfer Learning
+**Deep Learning & CV**
 
-**ML & NLP** — Scikit-learn · NLTK · TF-IDF · NLP Pipelines · Logistic Regression · Naive Bayes
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-**Languages** — Python · SQL · C · Java
+**ML & NLP**
 
-**Data & Analysis** — Pandas · NumPy · Matplotlib · Tableau · Excel
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logoColor=white)
 
-**Tools** — Git · Jupyter · Streamlit · REST APIs
+**Data & Tools**
 
-**Core CS** — DSA · DBMS · OOP · OS · Computer Networks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
