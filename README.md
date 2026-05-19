@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9E75&width=600&lines=Hi%2C+I'm+Khushi+%F0%9F%91%8B;ML+Engineer+%7C+Computer+Vision+%26+NLP;Building+real-world+AI+solutions)](https://git.io/typing-svg)
+
+
 # Hi, I'm Khushi 👋
 **ML engineer · Computer Vision & NLP · She/Her · Final-year CS student**
 
