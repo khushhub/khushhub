@@ -37,10 +37,11 @@ Open to remote ML/AI roles and freelance projects. If you have a problem that da
 
 ## Projects
 
-## NutriLens 🔬
-![demo](assets/demo.gif)
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nutrilens-pa.streamlit.app/)
+### 🔬 NutriLens### 🍱 NutriLens — AI Food & Nutrition Analyzer
+AI-powered nutrition tracking built specifically for Indian cuisine. 
+Upload a meal photo or scan a barcode to instantly get calorie and 
+macro breakdown. Tracks daily goals across calories, protein, carbs, 
+and fat with a full history dashboard.
 
 | Metric | Value |
 |--------|-------|
@@ -48,6 +49,8 @@ Open to remote ML/AI roles and freelance projects. If you have a problem that da
 | Accuracy | 91% |
 | Dataset | Food-101 |
 | Inference time | ~0.3s |
+
+`EfficientNet` `TensorFlow` `OpenCV` `Streamlit` `Computer Vision`
 
 ### 📰 Fake News Detection
 NLP classifier that detects misinformation using TF-IDF features and Naive Bayes, trained on real news datasets with a full preprocessing pipeline.
