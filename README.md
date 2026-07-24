@@ -37,6 +37,12 @@ Open to remote ML/AI roles and freelance projects. If you have a problem that da
 
 ## Projects
 
+# AI-Powered Course Assistant using Retrieval-Augmented Generation (RAG)
+
+The AI-Powered Course Assistant is an end-to-end Retrieval-Augmented Generation (RAG) application that transforms educational video content into a searchable knowledge base. The system enables users to ask natural language questions about course material and receive accurate, context-aware answers generated from the course transcripts instead of relying on the general knowledge of a Large Language Model.
+
+The application extracts audio from educational videos, converts speech into text, generates semantic embeddings for transcript chunks, retrieves the most relevant information using semantic similarity search, and produces grounded responses with video references and timestamps.
+
 ### 🔬 NutriLens### 🍱 NutriLens — AI Food & Nutrition Analyzer
 AI-powered nutrition tracking built specifically for Indian cuisine. 
 Upload a meal photo or scan a barcode to instantly get calorie and 
