@@ -43,7 +43,7 @@ The AI-Powered Course Assistant is an end-to-end Retrieval-Augmented Generation 
 
 The application extracts audio from educational videos, converts speech into text, generates semantic embeddings for transcript chunks, retrieves the most relevant information using semantic similarity search, and produces grounded responses with video references and timestamps.
 
-### 🔬 NutriLens### 🍱 NutriLens — AI Food & Nutrition Analyzer
+### NutriLens — AI Food & Nutrition Analyzer
 AI-powered nutrition tracking built specifically for Indian cuisine. 
 Upload a meal photo or scan a barcode to instantly get calorie and 
 macro breakdown. Tracks daily goals across calories, protein, carbs, 
@@ -58,15 +58,15 @@ and fat with a full history dashboard.
 
 `EfficientNet` `TensorFlow` `OpenCV` `Streamlit` `Computer Vision`
 
-### 📰 Fake News Detection
+###  Fake News Detection
 NLP classifier that detects misinformation using TF-IDF features and Naive Bayes, trained on real news datasets with a full preprocessing pipeline.
 `NLTK` `TF-IDF` `Naive Bayes` `Scikit-learn`
 
-### 🏠 Housing Price Predictor
+###  Housing Price Predictor
 Regression model for predicting property prices with feature engineering, EDA, and ensemble methods. Includes a full data analysis walkthrough.
 `Pandas` `Scikit-learn` `Matplotlib` `NumPy`
 
-### 🌐 Smart P2P SAP/CAP
+###  Smart P2P SAP/CAP
 Full-stack peer-to-peer application on SAP Cloud Application Programming model, demonstrating cloud-native architecture and REST API design.
 `JavaScript` `SAP CAP` `REST APIs`
 
